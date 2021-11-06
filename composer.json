@@ -1,0 +1,12 @@
+{
+    "name": "volodymyr/ga-sender",
+    "authors": [
+        {
+            "name": "Volodymyr Tochytskyi",
+            "email": "v.tochytskyi@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
